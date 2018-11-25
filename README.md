@@ -1,11 +1,18 @@
 # Kaggle_Projects
-Please make your contributions.
 
-Download the project:
+**For collaborators**
+
+Please download the project:
 git clone https://github.com/jmyao17/Kaggle_Projects.git
 
-Add your contribution:
+Everytime before your make your contribution, please first update your directory by using:
+
+git pull
+
+then make your changes in the project and upload your contribution as follows:
 - git add .
 - git commit -m 'comments'
 - git push
+
+enter your usename and password.
 
